@@ -1,4 +1,4 @@
 # test-demo
 This is my first Git Repository.
 <br>
-Author - Tarun Pujara
+Author - Tarun (pradhum171)
